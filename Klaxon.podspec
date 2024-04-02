@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'Klaxon'
-  spec.version          = '0.1.0'
+  spec.version          = '0.1.1'
   spec.summary          = 'Account Aggregator SDK by Setu'
   spec.description      = 'Account Aggregator SDK. Name: Klaxon'
   spec.homepage         = 'https://setu.co'
