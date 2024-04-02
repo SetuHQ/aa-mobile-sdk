@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Klaxon-Swift.h</key>
 		<data>
-		X93TDp8iufB2TC8F6clR2zd5CTk=
+		GbLsvQXVREGFCc8e4B2xHR58wi0=
 		</data>
 		<key>Headers/Klaxon.h</key>
 		<data>
@@ -20,6 +20,10 @@
 		<data>
 		UDGu6P74G/wR85TGhiOvjbEniRY=
 		</data>
+		<key>Modules/Klaxon.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		A9ev8aGjdMIomQjOh2YS7OvKSC8=
+		</data>
 		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		FSPnLbho3G+LL9smI3XgVOqBIQ4=
@@ -32,6 +36,18 @@
 		<data>
 		4XJL1s5kkPa15QpHEedG9SFVH6c=
 		</data>
+		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		aXApYA6SK8T1VqOoYdSyv9HxEMQ=
+		</data>
+		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		1BXohH+bzhpa4x5E87QgxG9XTN4=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		acxrxVMjI5CqKJ96GAEzqtKSCGg=
@@ -43,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h8OHT4FCut0QQKngZ+ihGwZa5tJNKidX7twtJ3UHe8M=
+			26EOzep38FYuMle0hLh2cvcd95+W+zVp6zdmCyg9fk8=
 			</data>
 		</dict>
 		<key>Headers/Klaxon.h</key>
@@ -58,6 +74,13 @@
 			<key>hash2</key>
 			<data>
 			M97PySHDgzA+KOnnprYQg+pLhik2J1B65TM9HUjktVY=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jYzlm0vYpSKURkiQ/1XjiAuxbIrT85VNFUxW/7B9ShI=
 			</data>
 		</dict>
 		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -79,6 +102,27 @@
 			<key>hash2</key>
 			<data>
 			hCPy8wS/qCvezC5EwKWr38YmNjuNFvb6OXD0HGWFW7w=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mWFyRXP7le9eRJGHRccf6RTH9Wdqog6RmzPpVr0WO00=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eTXWO4SwM7+BRi2FnnrXtRwzskdMzqW2EsZ1V76b2IQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
