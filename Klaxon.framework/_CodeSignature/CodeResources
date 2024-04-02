@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Klaxon-Swift.h</key>
 		<data>
-		TbjzQyspJIsp/Vjw4msosXK6fqM=
+		GbLsvQXVREGFCc8e4B2xHR58wi0=
 		</data>
 		<key>Headers/Klaxon.h</key>
 		<data>
@@ -16,9 +16,25 @@
 		<data>
 		wBVbGTI8vaXq5A+Ap+6WBwdDjPg=
 		</data>
+		<key>Modules/Klaxon.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		UDGu6P74G/wR85TGhiOvjbEniRY=
+		</data>
 		<key>Modules/Klaxon.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
 		A9ev8aGjdMIomQjOh2YS7OvKSC8=
+		</data>
+		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		</data>
+		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		zJUL+DP8ZhtqLpy4dfL4MzOnEWo=
+		</data>
+		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		4XJL1s5kkPa15QpHEedG9SFVH6c=
 		</data>
 		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -43,7 +59,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wh81rJn0T+O8atjxXziSh1gaCflXMHnb8FxogNYKpIE=
+			26EOzep38FYuMle0hLh2cvcd95+W+zVp6zdmCyg9fk8=
 			</data>
 		</dict>
 		<key>Headers/Klaxon.h</key>
@@ -53,11 +69,39 @@
 			Ew6gKU6KaHJAI39KzD9DCqSF3IxggHpnLhLuRHml0kw=
 			</data>
 		</dict>
+		<key>Modules/Klaxon.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M97PySHDgzA+KOnnprYQg+pLhik2J1B65TM9HUjktVY=
+			</data>
+		</dict>
 		<key>Modules/Klaxon.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			jYzlm0vYpSKURkiQ/1XjiAuxbIrT85VNFUxW/7B9ShI=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TXQTqUDJKVQB48C3zz2gbfEckXXlTziMBIfZ8XTytCQ=
+			</data>
+		</dict>
+		<key>Modules/Klaxon.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hCPy8wS/qCvezC5EwKWr38YmNjuNFvb6OXD0HGWFW7w=
 			</data>
 		</dict>
 		<key>Modules/Klaxon.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
